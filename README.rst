@@ -39,9 +39,7 @@ Architecture
     
        Nginx  ·  Docker  ·  EAS  ·  Expo Go
 
-Self Hosted
-IOS
+Self Hosted IOS
 ------
 
 © 2025 CarterPerez-dev · AngelaMos
-
